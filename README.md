@@ -11,7 +11,7 @@
 ### 1. [Recipe App Planning Documentation.](https://docs.google.com/document/d/1x-oBQozXc0KV2VCZILPoJpBXemT-pWt7Lr9LIIoeOBU/edit)
    * This document describes how my group plan on creating an Android recipe app. This document shows the basic requirement requested by a client and how our group approaches each requirement.
    * I learn how to prepare before creating a software. And making a clients requirement into something that could be translated into a code.
-   * The only thing I would change is that lowering some of the requirement due the time constrain of less than 10 week.
+   * The only thing I would change is to lower some of the requirement due the time constraint of fewer than five weeks.
    
 ### 2. [Recipe App Test Plan Documentation.](https://docs.google.com/document/d/1K8aK00TtRqugdUm1JNZ9M00WNMPXNvQ6ghaE-ZjUbAk/edit)
    * This document describes how my group plan on testing an Android recipe app. The document also stated how an independent testing team should test our app and how they should submit a bug report.
