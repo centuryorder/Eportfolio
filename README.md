@@ -8,7 +8,7 @@
 1. [Text based game](https://github.com/centuryorder/cpsc240_group2_project)
 2. [Website with local shop search feature](https://gitlab.com/Centuryorder/supersearch.git)
 ## Artifacts or projects details
-1. [Recipe App Planning Documentation.](https://docs.google.com/document/d/1x-oBQozXc0KV2VCZILPoJpBXemT-pWt7Lr9LIIoeOBU/edit) 
+1. [Recipe App Planning Documentation.](https://docs.google.com/document/d/1x-oBQozXc0KV2VCZILPoJpBXemT-pWt7Lr9LIIoeOBU/edit)
     This document describes how my group plan in creating an Android recipe app. This document shows the basic requirement requested by a     client and how our group approaches each requirement.
 
 2. [Recipe App Test Plan Documentation.](https://docs.google.com/document/d/1K8aK00TtRqugdUm1JNZ9M00WNMPXNvQ6ghaE-ZjUbAk/edit)
