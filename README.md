@@ -21,5 +21,5 @@
     A text base game based on the popular text base game "Zork" in the late 70s.
   
 
-5. [Website with local shop search feature](https://gitlab.com/Centuryorder/supersearch.git)
+5. [Website with local shop search feature.](https://gitlab.com/Centuryorder/supersearch.git)
     A webite that is created using React as the GUI front and postgress SQL for the database bank end.
